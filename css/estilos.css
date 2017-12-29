@@ -117,6 +117,7 @@ header .menu .c-3:hover {background: #002d44;}
 
 .acerca-de .foto img {
 	margin-bottom: 30px;
+	margin-right: : 50px;
 }
 
 .acerca-de .foto .nombre {
@@ -231,7 +232,7 @@ header .menu .c-3:hover {background: #002d44;}
 	transition: all .3s ease;
 }
 
-.redes-sociales .twitter {background: #1da1f2;}
+.redes-sociales .twitter {background: #blue;}
 .redes-sociales .instagram {background: #833ab4;}
 .redes-sociales .facebook {background: #3b5998;}
 
